@@ -71,7 +71,16 @@ docker push 993082532003.dkr.ecr.ap-south-1.amazonaws.com/ror-app:v1
 
 cd terraform-ror-app
 
+
 terraform init
 terraform plan
 terraform apply
 
+
+----------------------------------------------------------------------------------------------
+
+
+
+The full deployment guide, architecture diagram, and screenshots are available in the document below:
+
+ [Download InterviewProject.docx](https://github.com/JayaAravindh/Infrastructure/raw/main/InterviewProject.docx)
